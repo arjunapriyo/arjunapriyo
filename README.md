@@ -1,6 +1,7 @@
 -👋 Hi, I’m Arjuna Priyo Sandiprawira
--Saya Adalah Web Developer Laravel & React JS 
--Saya Bersekolah di SMK TELTOK MALAng
+-👀 Saya Adalah Web Developer Laravel & React JS 
+-📫 Saya Bersekolah di SMK TELTOK MALANG
+NICE TOO MET YOU😄😄😄
 
 <!---
 arjunapriyo/arjunapriyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
