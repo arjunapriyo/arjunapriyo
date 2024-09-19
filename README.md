@@ -1,5 +1,6 @@
 -👋 Hi, I’m Arjuna Priyo Sandiprawira
--👀 Saya Adalah Web Developer Laravel & React JS 
+-👀 Saya Adalah Web Developer 
+Laravel & React JS 
 -📫 Saya Bersekolah di SMK TELTOK MALANG
 NICE TOO MET YOU😄😄😄
 
