@@ -1,6 +1,9 @@
 # 👋 Hello, I'm Arjuna
-I'm a passionate software developer from Indonesia 🇮🇩
+🙌 I'm a passionate software developer from Indonesia 🇮🇩
 
+👨‍💻 I'm currently studying at SMK Telkom Malang
+
+💬 I like to talk about Web Development
 ---
 
 <p align="center">
@@ -12,10 +15,6 @@ I'm a passionate software developer from Indonesia 🇮🇩
   <img src="https://img.shields.io/github/repo-size/arjunapriyo/arjunapriyo?style=flat-square" />
   <img src="https://img.shields.io/github/languages/count/arjunapriyo/arjunapriyo?style=flat-square" />
 </p>
-
-👨‍💻 I'm currently studying at SMK Telkom Malang
-
-💬 I like to talk about Web Development
 
 ---
 
