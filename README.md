@@ -9,12 +9,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arjunapriyo&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/arjunapriyo?style=flat-square&color=blue&label=Followers" />
-  <img src="https://img.shields.io/github/stars/arjunapriyo?style=flat-square&color=yellow&label=Stars" />
-  <img src="https://img.shields.io/github/license/arjunapriyo/arjunapriyo?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/arjunapriyo/arjunapriyo?style=flat-square" />
-  <img src="https://img.shields.io/github/repo-size/arjunapriyo/arjunapriyo?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/arjunapriyo/arjunapriyo?style=flat-square" />
 </p>
 
 ---
