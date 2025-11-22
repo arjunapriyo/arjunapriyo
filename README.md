@@ -22,7 +22,7 @@
 <h3>Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=xampp,figma,postman,vscode,git,github&perline=13" />
+  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,git,github&perline=13" />
 </p>
 
 
@@ -31,7 +31,7 @@
 <h3 align="center">📫 Reach Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arjuna-priyo-sandiprawira-394201320" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/arjunapriyo" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
