@@ -22,7 +22,7 @@
 <h3>Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,postman,vscode,git,github&perline=13" />
+  <img src="https://skillicons.dev/icons?i=xampp,figma,postman,vscode,git,github&perline=13" />
 </p>
 
 
